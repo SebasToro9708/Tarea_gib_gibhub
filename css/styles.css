@@ -26,3 +26,75 @@ body{
   display: flex;
   color: inherit;
 }
+
+/*actividades-Favoritas*/
+.actividades-favoritas{
+  padding: 3.5rem 0rem;
+  display: flex;
+  justify-content: space-around;
+  background-color: #f8fff7;
+}
+.actividades-favoritas__titulo{
+  font-size: 1.8rem;
+  padding: 0.6rem 5rem 5rem 5rem;
+}
+
+.actividades-favoritas__titulo h1{
+  font-weight: 400;
+}
+
+.actividades-favoritas__lista article{
+  width: 17rem;
+  height: 15rem;
+  font-weight: lighter;
+  border-radius: 3%;
+  margin: 0.6rem 0rem 0.7rem 0rem;
+  padding: 0.5rem 0.6rem 0.1rem 0.6rem;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s;
+}
+
+.actividades-favoritas i{
+  padding: 0.2rem 0.4rem 0.4rem 0.4rem;
+  margin: 0.5rem 0rem 1rem 0rem;
+  font-size: 1.7rem;
+  border-radius: 10%;
+  color: #FFFFFF;
+  background-color: transparent;
+}
+
+.actividades-favoritas__lista article p{
+  font-weight: 400;
+  color: #ffffff;
+  padding: 0.8rem 0rem 0.8rem 0rem;
+}
+
+.actividades-favoritas__lista article:hover{
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+  transition: all 0.5s;
+  transform: scale(1.01);
+}
+
+.actividades-favoritas__lista{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0rem 0rem 1.5rem 5.5rem;
+}
+.actividades-favoritas__lista h3{
+  font-size: 1.3rem;
+  font-weight: lighter;
+}
+/*colores-de-card*/
+.actividades-favoritas__lista .card-1{
+  background: radial-gradient(#1fe4f5, #3fbafe);
+}
+.actividades-favoritas__lista .card-2{
+  background: radial-gradient(#60efbc, #58d5c9);
+}
+.actividades-favoritas__lista .card-3{
+  background: radial-gradient(#76b2fe, #b69efe);
+}
+.actividades-favoritas__lista .card-4{
+  background: radial-gradient(#f588d8, #c0a3e5);
+}
