@@ -14,3 +14,15 @@
   text-decoration: none;
   letter-spacing: 0.080rem;
 }
+body{
+  background-color: var(--color-gray-mediem);
+}
+
+/*estilos-miembros*/
+.members{
+  display: flex;
+}
+.members__tittle{
+  display: flex;
+  color: inherit;
+}
