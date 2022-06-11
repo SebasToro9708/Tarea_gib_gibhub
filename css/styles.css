@@ -1,0 +1,16 @@
+/*estilos-predeterminados*/
+:root {
+  --color-blue-medium: #8fe2e4;
+  --color-purple: #632ce7;
+  --color-gray-mediem: #f8f9fa;
+  --color-yellow: #fac32c;
+  --color-green: #4DC5B3;
+ }
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto Slab', serif, sans-serif;
+  box-sizing: border-box;
+  text-decoration: none;
+  letter-spacing: 0.080rem;
+}
