@@ -5,7 +5,7 @@
 <p align="center">Se le da la bienvenida a todos los miembros del grupo</p><br/>
 
 <summary><h2><img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" align="center"
-                width="28" /> Por favor tome en cuenta las siguientes recomendasiones</h2></summary>
+                width="28" /> Por favor tome en cuenta las siguientes recomendaciones</h2></summary>
                 
 - 🔭 Verifique que su Github este configurado correctamente en su equipo.
 -  Valide que al momento de hacer el fork el repositorio se muestre en los de su perfil.
