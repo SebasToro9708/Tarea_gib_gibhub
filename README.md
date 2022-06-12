@@ -5,11 +5,11 @@
 <p align="center">Se le da la bienvenida a todos los miembros del grupo</p><br/>
 
 <summary><h2><img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" align="center"
-                width="28" /> Por favor tome en cuenta las sigueintes recomendasiones</h2></summary>
+                width="28" /> Por favor tome en cuenta las siguientes recomendaciones</h2></summary>
                 
 - 🔭 Verifique que su Github este configurado correctamente en su equipo.
 -  Valide que al momento de hacer el fork el repositorio se muestre en los de su perfil.
--  Proceda con la clonasion del repositorio en su perfil de Github.
+-  Proceda con la clonacion del repositorio en su perfil de Github.
 - 🤔 Valide que la conexion entre el repositorio local y el remoto sea correcta.
 - 💬 Verifique que se encuentre en la rama dev para proceder a inicar con la actividad y hacer los cambios.
 
