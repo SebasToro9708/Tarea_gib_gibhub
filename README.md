@@ -9,7 +9,7 @@
                 
 - 🔭 Verifique que su Github este configurado correctamente en su equipo.
 -  Valide que al momento de hacer el fork el repositorio se muestre en los de su perfil.
--  Proceda con la clonasion del repositorio en su perfil de Github.
+-  Proceda con la clonacion del repositorio en su perfil de Github.
 - 🤔 Valide que la conexion entre el repositorio local y el remoto sea correcta.
 - 💬 Verifique que se encuentre en la rama dev para proceder a inicar con la actividad y hacer los cambios.
 
